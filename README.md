@@ -1,7 +1,8 @@
-# imagetragick
-A tool to exploit imagetragick vulnerability to gain remote code execution 
+## imagetragick
+A simple script to exploit imagetragick vulnerability to gain remote code execution 
 
-###Usage ./imagik.py 
+###Usage ./imagik.py
+
 ```sh
 $ python imagik.py
 ```
@@ -14,3 +15,4 @@ $ python imagik.py
 5.)If site is vulnerable to the attack you will get the reverse shell via terminal
 .......
 
+Tested on mac and ubuntu
