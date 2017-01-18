@@ -1,7 +1,15 @@
 ## imagetragick
 A simple script to exploit imagetragick vulnerability to gain remote code execution 
 
+Ensure you have portforwarded to receive connections
+
+python2.7 is been setted up as system path
+
+Tested on mac and ubuntu
+
 ###Usage ./imagik.py
+
+
 
 ```sh
 $ python imagik.py
@@ -15,4 +23,4 @@ $ python imagik.py
 5.)If site is vulnerable to the attack you will get the reverse shell via terminal
 .......
 
-Tested on mac and ubuntu
+
